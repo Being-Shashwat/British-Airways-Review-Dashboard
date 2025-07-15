@@ -1,7 +1,5 @@
 # ✈️ British Airways Customer Experience Analysis
 
-![Dashboard Preview](Screenshot%202025-07-15%20164221.png)
-
 ## 📊 Project Overview
 
 This project provides an in-depth analysis of customer reviews for British Airways, using data visualization to uncover patterns in customer satisfaction.
